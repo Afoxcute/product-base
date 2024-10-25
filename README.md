@@ -1,20 +1,20 @@
-## EcoCollect
+## Basearpsagrictrack
 
 ### Project Description
-EcoCollect is an innovative decentralized application (dApp) designed to promote environmental sustainability by incentivizing the collection and recycling of plastic waste. The platform allows waste pickers to deposit collected plastics and receive payments from registered recycling companies, fostering a cleaner environment while rewarding individual efforts toward sustainability.
+Basearpsagrictrack is an innovative decentralized application (dApp) designed to promote environmental sustainability by incentivizing the collection and recycling of plastic waste. The platform allows waste pickers to deposit collected plastics and receive payments from registered recycling companies, fostering a cleaner environment while rewarding individual efforts toward sustainability.
 
 ### Importance in Our Current Society
-Plastic pollution is a critical global issue, with millions of tons of plastic waste ending up in oceans and landfills every year. EcoCollect offers a decentralized platform that addresses this problem by encouraging active participation in recycling. Through the use of blockchain technology, the platform ensures transparency, fairness, and traceability in waste management, providing a scalable, secure, and efficient solution to combat plastic waste globally.
+Plastic pollution is a critical global issue, with millions of tons of plastic waste ending up in oceans and landfills every year. Basearpsagrictrack offers a decentralized platform that addresses this problem by encouraging active participation in recycling. Through the use of blockchain technology, the platform ensures transparency, fairness, and traceability in waste management, providing a scalable, secure, and efficient solution to combat plastic waste globally.
 
 ### Base Chain’s Scalability, Security, and Fast Transactions
-EcoCollect is deployed on Base, a highly scalable and secure Layer 2 chain that significantly enhances the platform's performance. With Base's fast transaction speeds, users can make plastic deposits and receive payments almost instantaneously, improving the user experience. Additionally, Base’s scalability allows the platform to handle high transaction volumes efficiently, ensuring EcoCollect can grow and support more users without compromising speed or security.
+Basearpsagrictrack is deployed on Base, a highly scalable and secure Layer 2 chain that significantly enhances the platform's performance. With Base's fast transaction speeds, users can make plastic deposits and receive payments almost instantaneously, improving the user experience. Additionally, Base’s scalability allows the platform to handle high transaction volumes efficiently, ensuring Basearpsagrictrack can grow and support more users without compromising speed or security.
 
 ### Project Application and Usage
-EcoCollect is primarily used by two key groups:
+Basearpsagrictrack is primarily used by two key groups:
 - **Pickers**: Individuals who collect plastic waste can register on the platform, deposit plastics, and receive tokens as rewards for their contributions.
 - **Recycling Companies**: Companies can register to pay pickers for deposited plastics, ensuring that the collected waste is processed responsibly. 
 
-By bridging decentralized technology with real-world environmental efforts, EcoCollect empowers users to contribute to a cleaner world while benefiting from the security and scalability of Base. Users can interact with the system through a user-friendly interface that provides dashboards for pickers and companies, enabling them to track deposits, payments, and transactions efficiently.
+By bridging decentralized technology with real-world environmental efforts, Basearpsagrictrack empowers users to contribute to a cleaner world while benefiting from the security and scalability of Base. Users can interact with the system through a user-friendly interface that provides dashboards for pickers and companies, enabling them to track deposits, payments, and transactions efficiently.
 
 ## Technologies Used
 - **Solidity**: Smart contracts were written in solidity.
@@ -79,8 +79,8 @@ The frontend allows users to:
   
 The interface includes the following pages:
 - **Home Page**: Overview of the project and its environmental goals.
-- **About Us Page**: Information on EcoCollect's mission and values.
-- **Contact Us Page**: Details for contacting EcoCollect.
+- **About Us Page**: Information on Basearpsagrictrack's mission and values.
+- **Contact Us Page**: Details for contacting Basearpsagrictrack.
 - **Picker Dashboard**: Display of picker activity, including plastic deposits and earnings.
 - **Company Dashboard**: Display of company payments to pickers and the management of plastic collections.
 

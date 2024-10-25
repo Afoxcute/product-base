@@ -1,8 +1,8 @@
-# EcoCollect
+# Basearpsagrictrack
 
 ## Project Description
 
-EcoCollect is a decentralized application designed to incentivize individuals and organizations to collect and recycle plastic waste. By rewarding users with tokens for their recycling efforts, EcoCollect aims to promote environmental stewardship and innovation in waste management. The application consists of two main smart contracts: **Recylox** and **Recycle**, which facilitate the locking of rewards and the recycling process, respectively.
+Basearpsagrictrack is a decentralized application designed to incentivize individuals and organizations to collect and recycle plastic waste. By rewarding users with tokens for their recycling efforts, Basearpsagrictrack aims to promote environmental stewardship and innovation in waste management. The application consists of two main smart contracts: **Recylox** and **Recycle**, which facilitate the locking of rewards and the recycling process, respectively.
 
 ## Functionality
 
@@ -17,12 +17,12 @@ EcoCollect is a decentralized application designed to incentivize individuals an
 
 ## Installation
 
-To set up the EcoCollect project, follow these steps:
+To set up the Basearpsagrictrack project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git https://github.com/Lukman-01/EcoCollect.git
-   cd EcoCollect/Blockend
+   git https://github.com/Lukman-01/Basearpsagrictrack.git
+   cd Basearpsagrictrack/Blockend
    ```
 
 2. **Install Dependencies**:

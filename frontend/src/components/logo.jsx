@@ -1,7 +1,7 @@
-import EcoCollect from "../assets/eco.webp";
+import Basearpsagrictrack from "../assets/eco.webp";
 function Logo(props) {
     return (
-      <img className="" src={EcoCollect} alt="logo" {...props}/>
+      <img className="" src={Basearpsagrictrack} alt="logo" {...props}/>
     );
 }
 

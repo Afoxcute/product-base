@@ -17,13 +17,13 @@ export const howItworks =
 
 
     {
-        title: 'Ecocollect Rewards Calculation:', 
-        desc: ['Based on the weight and type of recyclable materials, Ecocollect rewards are calculated.', 'A predetermined conversion rate is applied to determine the number of Ecocollect earned.']
+        title: 'Basearpsagrictrack Rewards Calculation:', 
+        desc: ['Based on the weight and type of recyclable materials, Basearpsagrictrack rewards are calculated.', 'A predetermined conversion rate is applied to determine the number of Basearpsagrictrack earned.']
     },
 
     {
-        title: 'Ecocollect Distribution:', 
-        desc: ['The earned Ecocollect are credited to the user', 'Users can access their Ecocollect balance and track their earnings.']
+        title: 'Basearpsagrictrack Distribution:', 
+        desc: ['The earned Basearpsagrictrack are credited to the user', 'Users can access their Basearpsagrictrack balance and track their earnings.']
     },
 
 

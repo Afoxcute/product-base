@@ -1,10 +1,10 @@
-# EcoCollect Frontend
+# Basearpsagrictrack Frontend
 
 ## Project Description
-The frontend of **EcoCollect** provides a user-friendly interface for interacting with the EcoCollect platform. It enables plastic waste pickers and recycling companies to seamlessly engage in the collection and payment process. The interface is designed to offer a smooth and intuitive experience for registering pickers, registering companies, depositing plastic waste, paying pickers, and viewing transaction histories. 
+The frontend of **Basearpsagrictrack** provides a user-friendly interface for interacting with the Basearpsagrictrack platform. It enables plastic waste pickers and recycling companies to seamlessly engage in the collection and payment process. The interface is designed to offer a smooth and intuitive experience for registering pickers, registering companies, depositing plastic waste, paying pickers, and viewing transaction histories. 
 
 ## Importance in Our Current Society
-The EcoCollect frontend simplifies the interaction between users and the blockchain-based system, making it accessible for everyday users. It plays a vital role in ensuring transparency in transactions, encouraging more people to actively participate in plastic waste recycling efforts. With an engaging and interactive design, it promotes environmental sustainability through a decentralized, community-driven approach.
+The Basearpsagrictrack frontend simplifies the interaction between users and the blockchain-based system, making it accessible for everyday users. It plays a vital role in ensuring transparency in transactions, encouraging more people to actively participate in plastic waste recycling efforts. With an engaging and interactive design, it promotes environmental sustainability through a decentralized, community-driven approach.
 
 ## Project Application and Usage
 The frontend allows users to:
@@ -14,8 +14,8 @@ The frontend allows users to:
   
 The interface includes the following pages:
 - **Home Page**: Overview of the project and its environmental goals.
-- **About Us Page**: Information on EcoCollect's mission and values.
-- **Contact Us Page**: Details for contacting EcoCollect.
+- **About Us Page**: Information on Basearpsagrictrack's mission and values.
+- **Contact Us Page**: Details for contacting Basearpsagrictrack.
 - **Picker Dashboard**: Display of picker activity, including plastic deposits and earnings.
 - **Company Dashboard**: Display of company payments to pickers and the management of plastic collections.
 
@@ -29,8 +29,8 @@ The interface includes the following pages:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Lukman-01/EcoCollect.git
-   cd EcoCollect/frontend
+   git clone https://github.com/Lukman-01/Basearpsagrictrack.git
+   cd Basearpsagrictrack/frontend
    ```
 
 2. **Install Dependencies**:
